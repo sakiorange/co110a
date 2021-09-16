@@ -11,7 +11,7 @@ ge// This file is part of www.nand2tetris.org
 
 CHIP And {
     IN a, b;
-    OUT out;1221122
+    OUT out;
 
     PARTS:
     // Put your code here:
